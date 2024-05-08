@@ -96,6 +96,8 @@ function Myimage() {
                     wrapperStyle={{}}
                     wrapperClass=""
                     />
+                    <p>Please hold your hands for 1 min......</p>
+                
                 </div>
             </div>
             
